@@ -4,7 +4,7 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 import seaborn as sns
 import os
-from matplotlib.backends.backend_agg import RendererAgg
+#from matplotlib.backends.backend_agg import RendererAgg
 
 #Load df
 #url = https://github.com/max-lutz/national-assembly/blob/main/data/df_dep.csv
